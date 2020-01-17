@@ -1,4 +1,4 @@
-#no
+# no
 ---
 
 Returns the string 'n' very quickly.
@@ -14,6 +14,6 @@ Build with a compiler like GCC:
 Then copy or symlink to /usr/bin/no (or somewhere else in your path).
 
 
-####but why? doesn't 'yes' take a command line argument and return that?  doesn't that already do what this program does?
+#### but why? doesn't 'yes' take a command line argument and return that?  doesn't that already do what this program does?
 
 yes.
